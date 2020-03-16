@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{0AC56D9B-378E-41D0-9F50-BFEF8093CA84}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rock_Paper_Scissors/Services/GamesRepository.cs">
+    <Files>
+      <File FileName="Rock_Paper_Scissors/Controllers/GamesController.cs" Line="68" Column="47" IsPinned="True" />
+      <File FileName="Rock_Paper_Scissors/Models/Game.cs" Line="24" Column="49" />
+      <File FileName="Rock_Paper_Scissors/Models/Player.cs" Line="12" Column="1" />
+      <File FileName="Rock_Paper_Scissors/Models/Move.cs" Line="13" Column="6" />
+      <File FileName="Rock_Paper_Scissors/Services/GamesRepository.cs" Line="24" Column="1" />
+      <File FileName="Rock_Paper_Scissors/Views/Home/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rock_Paper_Scissors" expanded="True">
+            <Node name="Rock_Paper_Scissors" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="GamesRepository.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>gameId</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Rock__Paper__Scissors PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
